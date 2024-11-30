@@ -1,7 +1,12 @@
 # Everyday-Code-in-C
 
-This assignment required us to implement the following functions as well as identifying their time complexities in Big O Notation.
+This assignment required us to implement the following functions as well as identify their time complexities in Big O Notation.
+All implementation
 
+Constraints
+• Do not modify the main.cpp file.
+• Do not modify the source.h file.
+• Do not modify function prototypes/headers.
 
 Mean of Even Numbers
 
